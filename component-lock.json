@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-14",
+  "components": [
+    {
+      "name": "frontend-slides",
+      "pluginPath": "./skills/frontend-slides",
+      "source": "https://github.com/zarazhangrui/frontend-slides",
+      "sourceVersion": "2.1.0",
+      "fileCount": 79,
+      "treeSha256": "e9bcdddacfe26f4c7ae81e000fe6771d60d53e012613eae243c683a377a4e1c3"
+    },
+    {
+      "name": "baoyu-design",
+      "pluginPath": "./skills/baoyu-design",
+      "source": "local-workspace:.agents/skills/baoyu-design",
+      "sourceVersion": "local-snapshot-2026-07-14",
+      "fileCount": 740,
+      "treeSha256": "d32af115a5eb4512d5b41973ffd914db872fa5b8ca9da5f5bc7b9a6159231d4c"
+    },
+    {
+      "name": "html-ppt",
+      "pluginPath": "./skills/html-ppt",
+      "source": "https://github.com/lewislulu/html-ppt-skill",
+      "sourceVersion": "main-snapshot-2026-07-14",
+      "fileCount": 226,
+      "treeSha256": "4b61b62e81b3279b96df89d1c2f11d029a4cf464d89b4dbebde3de05b4d0ef9d"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "ppt-design",
+  "version": "0.1.0",
+  "description": "A presentation design bundle containing frontend-slides, baoyu-design, and html-ppt without renaming or merging the three skills.",
+  "author": {
+    "name": "PPTSkill Local"
+  },
+  "keywords": [
+    "presentation",
+    "slides",
+    "html-ppt",
+    "pptx",
+    "design"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "PPT Design",
+    "shortDescription": "Three complementary skills for editable HTML and PowerPoint presentations.",
+    "longDescription": "PPT Design packages frontend-slides, baoyu-design, and html-ppt as three independent, unchanged skills in one installable Codex plugin.",
+    "developerName": "PPTSkill Local",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "使用 frontend-slides、baoyu-design 和 html-ppt 制作可编辑商业演示文稿。",
+      "把现有项目整理为带动画的 HTML 幻灯片，并导出可编辑 PPTX。"
+    ]
+  }
+}
